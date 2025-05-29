@@ -28,3 +28,8 @@ Seu objetivo é demonstrar como criar um fluxo básico de **registro de usuário
 ---
 
 ## 📦 Como Rodar o Projeto
+- git clone https://github.com/vic-cavalcant3/firebaseLogin.git
+- cd SmartKitchen
+- npm install
+- npm start
+- clique no w pra abrir o web e a para abrir no android
