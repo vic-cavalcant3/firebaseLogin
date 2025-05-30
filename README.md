@@ -19,7 +19,7 @@ Seu objetivo é demonstrar como criar um fluxo básico de **registro de usuário
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (ES6+)**
+- **JavaScript**
 - **Firebase**:
   - Firebase Authentication
   - Firebase Firestore
